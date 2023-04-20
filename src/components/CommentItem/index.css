@@ -1,0 +1,127 @@
+.amber {
+  background-color: #f59e0b;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue {
+  background-color: #0b69ff;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.orange {
+  background-color: #f97316;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emerald {
+  background-color: #10b981;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.teal {
+  background-color: #14b8a6;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  background-color: #b91c1c;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.light-blue {
+  background-color: #111516;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.dp-alpha {
+  color: white;
+  font-size: 18px;
+}
+.time {
+  color: #7e858e;
+  font-size: 12px;
+  margin-left: 20px;
+}
+.comment-container {
+  margin-left: 15px;
+}
+.description {
+  color: #334155;
+}
+.btn {
+  background-color: white;
+  border: none;
+}
+.delete {
+  width: 20px;
+}
+.list-container {
+  list-style-type: none;
+}
+.like-delete-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
