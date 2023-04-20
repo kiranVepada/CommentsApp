@@ -32,7 +32,12 @@ const CommentItem = props => {
         <button type="button" className="btn" onClick={isLikedBtn}>
           <img src={like} alt="like" className="delete" />
         </button>
-        <button type="button" className="btn" onClick={deletebtn}>
+        <button
+          type="button"
+          className="btn"
+          onClick={deletebtn}
+          data-testid="delete"
+        >
           <img
             src="https://assets.ccbp.in/frontend/react-js/comments-app/delete-img.png"
             alt="delete"
